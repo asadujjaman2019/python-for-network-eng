@@ -3,8 +3,8 @@ import json
 person_dict = {"name": "sohan",
                "languages": ["English", "bd"],
                "married": True,
-               "country": "bd",
-               "age":32
+               "country": "bangladesh",
+               "age":13
               }
 
 with open('person.json', 'w') as json_file:
