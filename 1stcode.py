@@ -1,7 +1,7 @@
 import json
 
-person_dict = {"name": "Bob",
-               "languages": ["English", "French"],
+person_dict = {"name": "sohan",
+               "languages": ["English", "bd"],
                "married": True,
                "country": "bd",
                "age":32
